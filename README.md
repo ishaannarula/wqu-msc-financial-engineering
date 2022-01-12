@@ -1,2 +1,2 @@
 # wqu
- WorldQuant University Projects
+ WorldQuant University MSc in Financial Engineering Projects
